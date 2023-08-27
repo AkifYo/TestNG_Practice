@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f67a4db1-2bfb-4657-a7c3-7be37744a3a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,31 +54,72 @@
       <recent name="DemoTestNG" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.First_Automated_Test">
-    <configuration name="C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_groups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DynamicWaits.testImplicitlyWait">
+    <configuration name="DynamicWaits" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_groups.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTestNG" />
+      <option name="MAIN_CLASS_NAME" value="DemoTestNG.DynamicWaits" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_methods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DynamicWaits.testExlicitWait" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_methods.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTestNG" />
+      <option name="MAIN_CLASS_NAME" value="DemoTestNG.DynamicWaits" />
+      <option name="METHOD_NAME" value="testExlicitWait" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DynamicWaits.testFluentWait" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTestNG" />
+      <option name="MAIN_CLASS_NAME" value="DemoTestNG.DynamicWaits" />
+      <option name="METHOD_NAME" value="testFluentWait" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicWaits.testImplicitlyWait" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTestNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTestNG" />
+      <option name="MAIN_CLASS_NAME" value="DemoTestNG.DynamicWaits" />
+      <option name="METHOD_NAME" value="testImplicitlyWait" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -104,31 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_Automated_Test.testTableSortAndSearch" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DemoTestNG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DemoTestNG" />
-      <option name="MAIN_CLASS_NAME" value="DemoTestNG.First_Automated_Test" />
-      <option name="METHOD_NAME" value="testTableSortAndSearch" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DynamicWaits.testImplicitlyWait" />
+        <item itemvalue="TestNG.DynamicWaits.testFluentWait" />
+        <item itemvalue="TestNG.DynamicWaits" />
+        <item itemvalue="TestNG.DynamicWaits.testExlicitWait" />
         <item itemvalue="TestNG.First_Automated_Test" />
-        <item itemvalue="TestNG.First_Automated_Test.testTableSortAndSearch" />
-        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_groups.xml" />
-        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng.xml" />
-        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_methods.xml" />
       </list>
     </recent_temporary>
   </component>
