@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f67a4db1-2bfb-4657-a7c3-7be37744a3a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DemoTestNG/DynamicWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/DynamicWaits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
   <component name="ProjectId" id="2UVSFRSsFwXHdwHQrRc2EEHVWgA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -54,7 +56,17 @@
       <recent name="DemoTestNG" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DynamicWaits.testImplicitlyWait">
+  <component name="RunManager" selected="TestNG.C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_paralleltesting.xml">
+    <configuration name="C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_paralleltesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutorialTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_paralleltesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DynamicWaits" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutorialTestNG" />
       <extension name="coverage">
@@ -126,30 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_Automated_Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutorialTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DemoTestNG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DemoTestNG" />
-      <option name="MAIN_CLASS_NAME" value="DemoTestNG.First_Automated_Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/tutorialTestNG/testng_paralleltesting.xml" />
         <item itemvalue="TestNG.DynamicWaits.testImplicitlyWait" />
         <item itemvalue="TestNG.DynamicWaits.testFluentWait" />
         <item itemvalue="TestNG.DynamicWaits" />
         <item itemvalue="TestNG.DynamicWaits.testExlicitWait" />
-        <item itemvalue="TestNG.First_Automated_Test" />
       </list>
     </recent_temporary>
   </component>

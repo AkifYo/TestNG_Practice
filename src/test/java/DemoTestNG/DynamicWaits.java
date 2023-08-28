@@ -24,7 +24,7 @@ public class DynamicWaits {
     public void setUp(){
         WebDriverManager.firefoxdriver().setup();
         driver= new FirefoxDriver();
-        driver.manage().window().maximize();
+       // driver.manage().window().maximize();
         driver.get("https://www.lambdatest.com/selenium-playground/");
     }
     @Test
